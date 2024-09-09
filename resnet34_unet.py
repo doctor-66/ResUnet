@@ -1,6 +1,3 @@
-# Implement your ResNet34_UNet model here
-
-# assert False, "Not implemented yet!"
 import torch
 import torch.nn as nn
 from torchsummary import summary
